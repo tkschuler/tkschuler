@@ -8,8 +8,10 @@ I am a research scientist at the the U.S. Naval Research Lab.  I graduated with 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [Stock Analyzer](https://github.com/tkschuler/stockanalyzer), [EarthSHAB](https://github.com/tkschuler/SolarBalloon)
-- 🌱 I’m currently learning ... Neural Networks, Computational Finance
+- ⚙️ I’m currently working on: [Stock Analyzer](https://github.com/tkschuler/stockanalyzer), [EarthSHAB](https://github.com/tkschuler/SolarBalloon)
+- 💡 I’m currently learning: Neural Networks, Computational Finance
+- ⚡ Interests: Backpacking, Skiing, Photography, Music
+- 🔗 Websites: [tkschuler.github.io](https://tkschuler.github.io), [tristanschuler.com](https://tristanschuler.com), [trizzletravels.com](https://trizzeletravels.com)
 
 
 ![Tristan's github stats](https://github-readme-stats.vercel.app/api/?username=tkschuler&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
